@@ -40,7 +40,7 @@ header {
 
 .cart {
     padding: 16px 20px;
-    border: 1px solid rgb(38,37,37);
+    border: 1px solid rgb(38, 37, 37);
     border-radius: 10px;
 }
 
@@ -48,26 +48,41 @@ header {
     padding-left: 97px;
 }
 
-.pl-35
-{
+.pl-35 {
     padding-left: 106px;
 }
 
-.img-cart
-{
+.img-cart {
     background-color: rgba(27, 26, 26, 0.349);
     margin-top: 24px;
-    padding: 67px  66px;
+    padding: 67px 66px;
 }
 
-img[alt="images"]
-{
+img[alt="images"] {
     justify-content: center;
     display: flex;
     align-items: center;
 }
 
-.second-img
-{
+.second-img {
     padding-left: 115px;
 }
+
+.td-color {
+    color: rgb(184, 184, 184);
+}
+
+.td-typography {
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 32.4px;
+    padding: 22px;
+}
+
+.th-typography {
+    font-size: 18px;
+    font-weight: 600 !important;
+    line-height: 32.4px;
+    margin: 22px !important;
+}
+
