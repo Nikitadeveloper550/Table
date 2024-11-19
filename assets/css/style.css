@@ -52,3 +52,22 @@ header {
 {
     padding-left: 106px;
 }
+
+.img-cart
+{
+    background-color: rgba(27, 26, 26, 0.349);
+    margin-top: 24px;
+    padding: 67px  66px;
+}
+
+img[alt="images"]
+{
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+
+.second-img
+{
+    padding-left: 115px;
+}
